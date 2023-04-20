@@ -1,0 +1,27 @@
+.diva{
+    margin-top: -50px;
+    padding-left: 200px;
+}.navbar-nav{
+    font-weight: bold;
+    font-size: small;
+}
+.orn{
+    margin: -10px 10px 0px 0px;
+}
+/* .dav{
+    margin-top: 50px;
+} */
+.cardsol{
+    margin: -300px 0px 0px 350px;
+}
+.ome{
+    width: 100px; height: 10px;
+    background-color: red;
+}
+.op
+{
+    display: flex;
+    gap: 25px;
+    width: 550px;
+    height: 300px;
+}

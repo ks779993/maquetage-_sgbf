@@ -1,0 +1,33 @@
+.diva{
+    margin-top: -50px;
+    padding-left: 200px;
+}.navbar-nav{
+    font-weight: bold;
+    font-size: small;
+}
+.orn{
+    margin: -10px 10px 0px 0px;
+}
+/* .dav{
+    margin-top: 50px;
+} */
+.cardsol{
+    margin: -300px 0px 0px 350px;
+}
+.Marge{
+    margin :0px;
+
+}
+.dav{
+    display: flex;
+    margin-top: 30px;
+}
+.erta{
+    display: flex;
+}
+header{
+    position: sticky;
+    top: -120px;
+    z-index: 10;
+    background-color: white;
+}
